@@ -1,4 +1,4 @@
-//function
+//function 영역
 function _filter (list,predi) {
 	var new_list=[];
 	_each(list,function (val) {
