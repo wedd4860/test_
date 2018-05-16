@@ -1,4 +1,4 @@
-//function
+//function master
 function _filter (list,predi) {
 	var new_list=[];
 	_each(list,function (val) {
