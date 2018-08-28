@@ -1,4 +1,4 @@
-//function master 수정
+﻿//function branch_1 수정
 function _filter (list,predi) {
 	var new_list=[];
 	_each(list,function (val) {
