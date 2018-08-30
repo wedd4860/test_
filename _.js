@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-﻿//function master 수정 	
-=======
-﻿//function exp 브랜치 수정
->>>>>>> exp
+﻿﻿//function master 복구
 function _filter (list,predi) {
 	var new_list=[];
 	_each(list,function (val) {
