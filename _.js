@@ -1,5 +1,4 @@
-﻿﻿//function test 브랜치 생성
-//test 중
+﻿﻿//function master 초기
 function _filter (list,predi) {
 	var new_list=[];
 	_each(list,function (val) {
