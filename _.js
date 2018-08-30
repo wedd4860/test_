@@ -1,4 +1,4 @@
-//function exp 수정
+﻿//function exp 재수정
 function _filter (list,predi) {
 	var new_list=[];
 	_each(list,function (val) {
