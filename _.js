@@ -1,5 +1,4 @@
-﻿//function branch 생성
-//function master 초기
+﻿//function master 생성, test branch 삭제
 function _filter (list,predi) {
 	var new_list=[];
 	_each(list,function (val) {
