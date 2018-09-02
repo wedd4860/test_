@@ -1,4 +1,4 @@
-﻿//function master , test branch merge
+﻿//function master commit
 function _filter (list,predi) {
 	var new_list=[];
 	_each(list,function (val) {
