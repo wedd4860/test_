@@ -1,5 +1,4 @@
-﻿//function master 커밋
-//function test branch 생성
+﻿//function master , test branch merge
 function _filter (list,predi) {
 	var new_list=[];
 	_each(list,function (val) {
