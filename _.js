@@ -1,5 +1,5 @@
 ﻿//function master commit
-//test branch delele
+//test branch add
 function _filter (list,predi) {
 	var new_list=[];
 	_each(list,function (val) {
